@@ -1,4 +1,6 @@
 # -Diabetes-Prediction-Analysis
+PBI Link - https://app.powerbi.com/view?r=eyJrIjoiZDdlYjZjMjYtYmNiMS00NWJmLWIzNDItMDRkYWQ2YmE0MzUyIiwidCI6IjNmZDY5NTM3LWE3MzAtNGZlMi04N2Q0LWY5ZTc0MzMwMGMwOSJ9
+
 GitHub Project Description:
 
 **Diabetes Prediction Analysis at Psyliq**
